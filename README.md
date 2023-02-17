@@ -1,6 +1,7 @@
 <h1>Hello world!! I'm JIYONG.</h1>
 
-<p>Welcome to my garden!<img src="https://cdn-icons-png.flaticon.com/32/3090/3090490.png" /><br/>I am a university student who is aiming to become a backend developer.</p>
+<p>Welcome to my garden!<img src="https://cdn-icons-png.flaticon.com/32/3090/3090490.png" /><br/>I am a university student in 
+  <img alt="SoutKorea" src="https://cdn-icons-png.flaticon.com/16/3909/3909425.png" /> <b>South Korea</b> who is aiming to become a backend engineer.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -25,7 +26,7 @@
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
 </p>
 
-<h3>I'm currently ready to</h3>
+<h3>Things I'm currently preparing</h3>
 <ul>
   <li><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Capston Design for Portfolio</li>
   <li><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Codeing Test</li>
@@ -33,10 +34,24 @@
   <li>Graduation</li>
 </ul>
 
+<h3>Things I'm currently interested in</h3>
+<ul>
+  <li>Clean Code</li>
+  <li>Object-Oriented Programming</li>
+</ul>
+
+<h3>Things I want to learn later</h3>
+<ul>
+  <li>Domain Driven Design</li>
+  <li>Kubernetes</li>
+  <li>Microservice Architecture</li>
+  <li>Optimization</li>
+</ul>
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/jeidiiy"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://somuchthings.tistory.com"><img alt="Tistory" src="https://img.shields.io/badge/-Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" /></a>
+  <a href="https://somuchthings.tistory.com"><img alt="Tistory" src="https://img.shields.io/badge/-Tistory-FFFFFF?style=for-the-badge&logo=tistory&logoColor=black" /></a>
 </p>
 
 <h3>Contact</h3>
