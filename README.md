@@ -29,7 +29,7 @@
 <h3>Things I'm currently preparing</h3>
 <ul>
   <li><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Capston Design for Portfolio</li>
-  <li><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Codeing Test</li>
+  <li><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Coding Test</li>
   <li>Interview</li>
   <li>Graduation</li>
 </ul>
