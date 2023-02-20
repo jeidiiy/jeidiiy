@@ -1,7 +1,7 @@
 <h1>Hello world!! I'm JIYONG.</h1>
 
 <p>Welcome to my garden!<img src="https://cdn-icons-png.flaticon.com/32/3090/3090490.png" /><br/>I am a university student in 
-  <img alt="SoutKorea" src="https://cdn-icons-png.flaticon.com/16/3909/3909425.png" /> <b>South Korea</b> who is aiming to become a backend engineer.</p>
+  <img alt="SouthKorea" src="https://cdn-icons-png.flaticon.com/16/3909/3909425.png" /> <b>South Korea</b> who is aiming to become a backend engineer.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -25,6 +25,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="Intellij IDEA" src="https://img.shields.io/badge/-Intellij IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="Chrome" src="https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
 </p>
