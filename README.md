@@ -5,6 +5,8 @@
 
 <h3>Things I code with</h3>
 <p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-B07219?style=flat-square&logo=java&logoColor=white">
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="SpringBoot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="SpringSecurity" src="https://img.shields.io/badge/-Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
   <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
@@ -30,6 +32,8 @@
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeidiiy&theme=tokyonight&show_icon=true&layout=compact)
+
 <h3>Things I'm currently preparing</h3>
 <ul>
   <li><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Capston Design for Portfolio</li>
@@ -37,6 +41,8 @@
   <li>Interview</li>
   <li>Graduation</li>
 </ul>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jo2909)](https://solved.ac/jo2909/)
 
 <h3>Things I'm currently interested in</h3>
 <ul>
