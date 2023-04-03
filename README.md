@@ -11,6 +11,7 @@
   <img alt="SpringSecurity" src="https://img.shields.io/badge/-Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
   <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img alt="JUnit5" src="https://img.shields.io/badge/-JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
