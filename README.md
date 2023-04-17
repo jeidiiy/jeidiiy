@@ -34,8 +34,6 @@
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeidiiy&theme=tokyonight&show_icon=true&layout=compact)
-
 <h3>Things I'm currently preparing</h3>
 <ul>
   
