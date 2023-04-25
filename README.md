@@ -59,9 +59,8 @@
   <li>Optimization</li>
 </ul>
 
-<h3>Where to find me</h3>
+<h3>Tech Blog</h3>
 <p>
-  <a href="https://github.com/jeidiiy"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://somuchthings.tistory.com"><img alt="Tistory" src="https://img.shields.io/badge/-Tistory-FFFFFF?style=for-the-badge&logo=tistory&logoColor=black" /></a>
 </p>
 
