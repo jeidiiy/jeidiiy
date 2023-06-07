@@ -11,6 +11,7 @@
 <ul>
   <li><img src="https://em-content.zobj.net/thumbs/160/google/350/fire_1f525.png" width="20" alt="new" /> Capston Design for Portfolio</li>
   <li><img src="https://em-content.zobj.net/thumbs/160/google/350/fire_1f525.png" width="20" alt="new" /> Coding Test</li>
+  <li>AWS Certified Solutions Architect - Associate</li>
   <li>Interview</li>
   <li>Graduation</li>
 </ul>
