@@ -5,7 +5,7 @@
 
 <h3>Things I code with</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,mysql,js,react,redux,next,docker,aws,git,github,idea,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,mysql,ts,react,redux,next,docker,aws,git,github,idea,vscode&theme=light)](https://skillicons.dev)
 
 <h3>Things I'm currently preparing</h3>
 <ul>
