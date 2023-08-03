@@ -9,13 +9,12 @@
 
 <h3>Things I'm currently preparing</h3>
 <ul>
-  <li><img src="https://em-content.zobj.net/thumbs/160/google/350/fire_1f525.png" width="20" alt="new" /> Capston Design for Portfolio</li>
+  <li><img src="https://em-content.zobj.net/thumbs/160/google/350/fire_1f525.png" width="20" alt="new" /> Portfolio</li>
+  <li><img src="https://em-content.zobj.net/thumbs/160/google/350/fire_1f525.png" width="20" alt="new" /> Capston Design</li>
   <li><img src="https://em-content.zobj.net/thumbs/160/google/350/fire_1f525.png" width="20" alt="new" /> Coding Test</li>
   <li>Interview</li>
   <li>Graduation</li>
 </ul>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jo2909)](https://solved.ac/jo2909/)
 
 <h3>Things I'm currently interested in</h3>
 <ul>
