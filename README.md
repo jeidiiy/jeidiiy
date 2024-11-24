@@ -5,29 +5,12 @@
 
 <h3>Things I code with</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,ts,react,redux,next,docker,aws,git,github,idea,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,js,ts,react,redux,next,docker,aws,git,github,idea,vscode&theme=light)](https://skillicons.dev)
 
 <h3>Things I'm currently preparing</h3>
 <ul>
   <li><img src="https://em-content.zobj.net/thumbs/160/google/350/fire_1f525.png" width="20" alt="new" /> Portfolio</li>
-  <li><img src="https://em-content.zobj.net/thumbs/160/google/350/fire_1f525.png" width="20" alt="new" /> Capston Design</li>
-  <li><img src="https://em-content.zobj.net/thumbs/160/google/350/fire_1f525.png" width="20" alt="new" /> Coding Test</li>
-  <li>Interview</li>
-  <li>Graduation</li>
-</ul>
-
-<h3>Things I'm currently interested in</h3>
-<ul>
-  <li>Clean Code</li>
-  <li>Object-Oriented Programming</li>
-</ul>
-
-<h3>Things I want to learn later</h3>
-<ul>
-  <li>Domain Driven Design</li>
-  <li>Kubernetes</li>
-  <li>Microservice Architecture</li>
-  <li>Optimization</li>
+  <li><img src="https://em-content.zobj.net/thumbs/160/google/350/fire_1f525.png" width="20" alt="new" /> Interview</li>
 </ul>
 
 <h3>Tech Blog</h3>
